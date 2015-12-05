@@ -43,7 +43,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="testapp" />
+    <favorites_list name="CalcJS" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -87,7 +87,7 @@
         </entry>
       </file>
       <file leaf-file-name="Translations Editor" pinned="false" current-in-tab="false">
-        <entry file="android-dummy://C:/Users/ggonz/workspace/testapp/CalcJS/Translations Editor">
+        <entry file="android-dummy://C:/Users/ggonz/workspace/CalcJS/Translations Editor">
           <provider selected="true" editor-type-id="string-resource-editor">
             <state />
           </provider>

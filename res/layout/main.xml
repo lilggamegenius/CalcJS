@@ -21,7 +21,8 @@
                     android:inputType="textMultiLine"
                     android:ems="10"
                     android:id="@+id/editText" android:layout_weight="0"
-                    android:enabled="false" android:layout_span="2"/>
+                    android:enabled="true" android:layout_span="2" android:clickable="true"
+                    android:editable="false"/>
             <Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="/"
                     android:id="@+id/buttonDivide" android:layout_margin="0dp"/>
             <Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="*"
