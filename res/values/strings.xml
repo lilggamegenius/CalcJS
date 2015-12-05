@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calc JS</string>
+    <string name="time">Time</string>
+    <string name="Author">Lil-G aka Gabe G.</string>
+    <string name="eval">Enter evaluation</string>
+    <string name="calc">Press to calculate JavaScript</string>
+</resources>
